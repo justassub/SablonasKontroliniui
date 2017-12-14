@@ -1,0 +1,2 @@
+127.0.0.1 - - [14/Dec/2017:19:53:20 +0200] "GET /kodas-app HTTP/1.1" 404 - http-bio-8081-exec-1 0
+127.0.0.1 - - [14/Dec/2017:19:53:22 +0200] "GET /kodas-appd HTTP/1.1" 404 - http-bio-8081-exec-2 0
